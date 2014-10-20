@@ -5,8 +5,8 @@ Inspired by the wonderful [Simples Pimples](http://opengameart.org/content/simpl
 
 To make the spritesheet easier to work with, I took the liberty of splitting it up into categories. Those categories:
 
-* !(Bombs)[images/bombs.png]
-* !(Bottles)[images/bottles.png]
+!(Bombs)[images/bombs.png]
+!(Bottles)[images/bottles.png]
 * !(Boulders)[images/boulders.png]
 * !(Bricks)[images/bricks.png]
 * !(Cans)[images/cans.pngs]
