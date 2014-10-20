@@ -5,16 +5,13 @@ Inspired by the wonderful [Simples Pimples](http://opengameart.org/content/simpl
 
 To make the spritesheet easier to work with, I took the liberty of splitting it up into categories.
 
-Categories
-----------
-
-| Name | Image |
-| ---- | ----- |
+| Category | Image |
+| -------- | ----- |
 | Bombs | ![Bombs](images/bombs.png) |
 | Bottles | ![Bottles](images/bottles.png) |
 | Boulders | ![Boulders](images/boulders.png) |
 | Bricks | ![Bricks](images/bricks.png) |
-| Cans | ![Cans](images/cans.pngs) |
+| Cans | ![Cans](images/cans.png) |
 | Cartons | ![Cartons](images/cartons.png) |
 | Caves | ![Caves](images/caves.png) |
 | Characters | ![Characters](images/characters.png) |
@@ -27,7 +24,7 @@ Categories
 | Drops | ![Drops](images/drops.png) |
 | Drugs | ![Drugs](images/drugs.png) |
 | Foliage | ![Foliage](images/foliage.png) |
-| Fruits & Vegetables | ![Fruits & Vegetables](images/fruits-n-vegetables.png) |
+| Fruits & Vegetables | ![Fruits & Vegetables](images/fruits-n-veggies.png) |
 | Ladders | ![Ladders](images/ladders.png) |
 | Lakes | ![Lakes](images/lakes.png) |
 | Lock & Keys | ![Lock & Keys](images/lock-n-keys.png) |
