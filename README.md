@@ -6,7 +6,7 @@ Inspired by the wonderful [Simples Pimples](http://opengameart.org/content/simpl
 To make the spritesheet easier to work with, I took the liberty of splitting it up into categories.
 
 | Category | Image |
-| -------- | ----- |
+| :------- | :---- |
 | Bombs | ![Bombs](images/bombs.png) |
 | Bottles | ![Bottles](images/bottles.png) |
 | Boulders | ![Boulders](images/boulders.png) |
